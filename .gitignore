@@ -1,0 +1,3 @@
+lib/googletest
+cmake-build-debug
+simulation.log
